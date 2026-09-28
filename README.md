@@ -12,3 +12,12 @@ c6c076a</p>
 <p>(origin/main) Carpetas con archivos dentro </p>
 <p>2. Añadir resultado del commit de página de contacto con git log</p>
 <p>c81fdc0 (HEAD -> feature/contacto) Añadir página de contacto</p>
+<p>3. Historial de logs final</p>
+3713047 (HEAD -> feature/contacto, origin/feature/contacto) Readme problema 4 ---- Escrito el problema final de la práctica.
+470a067 (origin/main, origin/HEAD, main) Add files via upload ---- La imagen añadida desde repo remoto.
+64370a8 Modificación del README ---- Una de las muchas modificaciones de README.
+c81fdc0 Añadir página de contacto ---- Página de contacto .html creada con etiquetas muy básicas.
+247f017 README con el segundo problema
+9aa260f Nueva modificación de ##Historial
+853be02 Nueva modificación ##Historial
+5b0a35c Modificación de estética de ##Historialq
