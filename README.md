@@ -20,4 +20,4 @@ c81fdc0 Añadir página de contacto ---- Página de contacto .html creada con et
 247f017 README con el segundo problema
 9aa260f Nueva modificación de ##Historial
 853be02 Nueva modificación ##Historial
-5b0a35c Modificación de estética de ##Historialq
+5b0a35c Modificación de estética de ##Historial.
